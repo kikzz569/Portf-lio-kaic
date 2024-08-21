@@ -1,7 +1,11 @@
 import './App.css'
+import Header from './Components/Header/indeex'
 
 const App = () => (
-  <h1>Começando</h1>
+  <>
+    <Header />
+  </>
+  
 )
 
 export default App

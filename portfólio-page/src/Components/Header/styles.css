@@ -1,0 +1,12 @@
+.header .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+}
