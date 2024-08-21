@@ -6,6 +6,8 @@ import 'bootstrap/dist/js/bootstrap.bundle.js'
 import 'normalize.css'
 import './Styles/generics/reset.css'
 import './Styles/settings/fonts.css'
+import './Styles/elements/base.css'
+import './Styles/settings/colors.css'
 import './index.css'
 
 createRoot(document.getElementById('root')).render(

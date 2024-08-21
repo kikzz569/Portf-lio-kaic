@@ -1,4 +1,18 @@
-.nav-items {
-    max-height: auto;
-    max-width:  auto;
+.item {
+    padding-top: 1rem;
 }
+
+.item img{
+    height: 40px;
+    transition: .1s ease;
+
+}
+
+.item img:hover {
+    border-bottom: 3px solid var(--color-negative);
+    border-radius: 3px;
+    height: 50px;
+    transition: .1s ease;
+
+}
+
