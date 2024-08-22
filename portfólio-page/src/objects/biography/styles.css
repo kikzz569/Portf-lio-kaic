@@ -1,0 +1,6 @@
+.biography {
+    font-family: var(--font-family-2);
+    color: var(--color-zero);
+    border-left: 2px solid;
+    padding: 2rem;
+}

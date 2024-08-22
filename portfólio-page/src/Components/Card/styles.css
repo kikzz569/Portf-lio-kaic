@@ -1,9 +1,10 @@
-
 .card-background {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
     background-color: var(--color-negative);
-    height: 555px;
+    height: 553px;
     padding: 3rem;
-    border-radius: 5px;
 }
 
 @keyframes img-animation{
