@@ -8,11 +8,27 @@
 
 }
 
-.item img:hover {
-    border-bottom: 3px solid var(--color-negative);
+#email img:hover {
+    border-bottom: 3px solid var(--color-email);
     border-radius: 3px;
     height: 50px;
     transition: .1s ease;
 
 }
 
+#wpp img:hover {
+    border-bottom: 3px solid var(--color-wpp);
+    border-radius: 3px;
+    height: 50px;
+    transition: .1s ease;
+
+}
+
+
+#linked img:hover {
+    border-bottom: 3px solid var(--color-linked);
+    border-radius: 3px;
+    height: 50px;
+    transition: .1s ease;
+
+}

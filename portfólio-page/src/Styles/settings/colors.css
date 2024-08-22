@@ -1,3 +1,11 @@
 :root {
     --color-negative: #131313;
+    --color-zero: #ffff;
+
+    --color-email: #cf0a0a;
+    --color-linked: rgb(49, 71, 192);
+    --color-wpp: rgb(4, 209, 4);
+
+    --color-one: #54d820;
 }
+

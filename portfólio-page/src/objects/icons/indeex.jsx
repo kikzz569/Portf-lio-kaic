@@ -5,17 +5,17 @@ import linkedin from '../../Img/linkedin-45.png'
 
 const Icons = () => (
     <ul className='nav-items'>
-        <li className='item'>
+        <li className='item' id='email'>
             <a href="#Email">
                 <img src={gmail} alt="" />
             </a>
         </li>
-        <li className='item'>
+        <li className='item' id='wpp'>
             <a href="#Wpp">
                 <img src={whatsapp} alt="" />
             </a>
         </li>
-        <li className='item'>
+        <li className='item' id='linked'>
             <a href="#linkedin">
                 <img src={linkedin} alt="" />
             </a>
