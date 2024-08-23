@@ -1,6 +1,6 @@
 import './App.css'
-import Card from './Components/Card/indeex'
 import Header from './Components/Header/indeex'
+import Card from './Components/Card/indeex'
 
 const App = () => (
   <>
