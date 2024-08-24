@@ -1,0 +1,13 @@
+.btn-left {
+    background: none;
+    border: none;
+    font-weight: bold;
+    font-size: 40px;
+    color: var(--color-zero);
+    transition: .2s;
+}
+
+.btn-left:hover {
+    color: var(--color-one);
+    transition: .2s;
+}

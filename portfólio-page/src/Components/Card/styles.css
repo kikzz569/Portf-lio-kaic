@@ -4,7 +4,7 @@
     gap: 5rem;
     background-color: var(--color-negative);
     height: 553px;
-    padding: 3rem;
+    padding: 1.5rem;
 }
 
 @keyframes img-animation{
@@ -17,7 +17,9 @@
     display: flex;
     margin-right: 2rem;
     animation-name: img-animation;
-    animation-duration: 2.5s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
 
 }
+
+.card-background
