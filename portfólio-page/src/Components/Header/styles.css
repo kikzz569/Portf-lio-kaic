@@ -1,11 +1,9 @@
-.header .navbar {
-    display: flex;
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
-
 .nav-items {
     display: flex;
-    flex-direction: row;
     gap: 5rem;
+}
+
+.header {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }

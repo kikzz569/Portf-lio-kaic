@@ -1,0 +1,38 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    gap: 7rem;
+}
+
+.txt-card2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    color: var(--color-one);
+    font-family: var(--font-family-2);
+    font-size: 45px;
+}
+
+.list-card2 {
+    display: flex;
+    gap: 5rem;
+    padding-right: 5rem;
+    padding-top: 3rem;
+    padding-bottom: 8rem;
+    border-top: 2px solid var(--color-one);
+}
+
+.item-card2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-card2 img{
+    width: 85px;
+}
+
+.item-card2 p {
+    color: var(--color-zero);
+}

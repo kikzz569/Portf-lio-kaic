@@ -1,0 +1,29 @@
+.card-background {
+    display: flex;
+    align-items: center;
+    background-color: var(--color-negative);
+    height: 553px;
+    padding: 1.5rem;
+}
+
+@keyframes img-animation{
+    0% {margin-top: 0rem;}
+    50% {margin-top: 1rem}
+    100% {margin-top: 0rem;}
+}
+
+.card-background .img-kaic img {
+    display: flex;
+    margin-right: 2rem;
+    animation-name: img-animation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+}
+
+
+.item-card {
+    display: flex;
+    gap: 4rem;
+    display: none;
+}

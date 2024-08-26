@@ -1,4 +1,4 @@
-.btn-left {
+.arrow-btn {
     background: none;
     border: none;
     font-weight: bold;
@@ -7,7 +7,7 @@
     transition: .2s;
 }
 
-.btn-left:hover {
+.arrow-btn:hover {
     color: var(--color-one);
     transition: .2s;
 }
