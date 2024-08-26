@@ -1,7 +1,8 @@
 .card-background {
     display: flex;
     align-items: center;
-    background-color: var(--color-negative);
+    justify-content: center;
+    background-image: radial-gradient(rgb(11, 6, 39), rgb(17, 17, 17));
     height: 553px;
     padding: 1.5rem;
 }
@@ -18,12 +19,11 @@
     animation-name: img-animation;
     animation-duration: 2s;
     animation-iteration-count: infinite;
-
 }
 
 
 .item-card {
-    display: flex;
     gap: 4rem;
     display: none;
+    transform: translateX(200vw);
 }

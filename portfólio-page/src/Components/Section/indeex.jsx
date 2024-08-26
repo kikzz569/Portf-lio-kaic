@@ -12,7 +12,7 @@ const Section = () => (
                         <li className="item-card">
                             <Card />
                         </li>
-                        <li className="item-card">
+                        <li className="">
                             <Card2 />
                         </li>
                     </ul>

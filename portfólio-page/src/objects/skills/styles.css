@@ -1,0 +1,19 @@
+
+.txt-card2 {
+    align-items: center;
+    color: var(--color-one);
+    font-family: var(--font-family-2);
+    font-weight: bold;
+    font-size: 45px;
+    border-bottom: 2px solid;
+}
+
+.item-card2 img{
+    width: 85px;
+}
+
+.item-card2 p {
+    font-family: var(--font-family-2);
+    color: var(--color-zero);
+}
+
