@@ -2,6 +2,7 @@ import Buttonleft from "../../objects/button-left/indeex";
 import Buttonright from "../../objects/button-right/indeex";
 import Card from "../Card/indeex";
 import Card2 from "../Card2/indeex";
+import Card3 from "../Card3/indeex";
 import "./styles.css"
 
 const Section = () => (
@@ -12,8 +13,11 @@ const Section = () => (
                         <li className="item-card">
                             <Card />
                         </li>
-                        <li className="">
+                        <li className="item-card">
                             <Card2 />
+                        </li>
+                        <li className="item-card">
+                            <Card3 />
                         </li>
                     </ul>
             <Buttonright />

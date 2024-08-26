@@ -1,0 +1,21 @@
+.img-card3 img {
+    display: flex;
+    margin-right: 2rem;
+    animation-name: img-animation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    max-height: 250px;
+    border-radius: 50%;
+     box-shadow: inset 0 0 1.5em 0 var(--color-one), 0 0 1.5em 0 var(--color-one);
+}
+
+.txt-card3 {
+    font-family: var(--font-family-2);
+    color: var(--color-zero);
+    border-left: 2px solid var(--color-one);
+    padding: 2rem;
+}
+
+.txt-card3 h1{
+    color: var(--color-one);
+}
